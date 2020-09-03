@@ -3,7 +3,7 @@ title: "Late Cretaceous Ridge Reorganization, Microplate Formation, and the Evol
 collection: publications
 permalink: /publication/
 excerpt: 'This paper is under review. Has been presented at AGU Fall Meeting 2015'
-date: 2019
+date: 28 August 2020
 venue: 'Geochem. Geophys. Geosys.'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Sager, W. W., S. Thoram, D. W. Engfer, A. A. P. Koppers, and C. Class (2019). &quot;Late Cretaceous Ridge Reorganization, Microplate Formation, and the Evolution of the Rio Grande Rise – Walvis Ridge Hot Spot Twins, South Atlantic Ocean.&quot; <i>Geochem. Geophys. Geosys.</i>. 1(2).'
