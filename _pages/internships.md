@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Internships"
+permalink: /internships/
+author_profile: true
+---
+{% include base_path %}
+
+# Fugro Marine Inc., Houston, TX 
+## Geoscience Intern, Jun'19 – Aug'19
+- Performed a complete site characterization of Oyster Creek windfarm project, offshore New Jersey, using six different types of geophysical data – ultra-high-resolution seismic, sub-bottom data, side-scan, multibeam, backscatter, and magnetic data – in order to identify potential sites for installing wind turbines.
+
+# Fugro Marine Inc., Houston, TX 
+## Geoscience Intern, Jun'18 – Aug'18
+- Worked on the implementation of a more robust workflow for detection of shallow hazards on the northern slope of
+Alaska. Some of the common shallow hazards in this area include gas hydrates, over-pressured formations, gas and
+permafrost.
