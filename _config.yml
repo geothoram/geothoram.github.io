@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _expeditions
   - scope:
       path: ""
-      type: teaching
+      type: expeditions
     values:
       layout: single
       author_profile: true
