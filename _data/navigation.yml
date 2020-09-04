@@ -9,8 +9,8 @@ main:
   - title: "Expeditions"
     url: /Expeditions/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Education"
+    url: /education/
         
   - title: "Blog Posts"
     url: /year-archive/
